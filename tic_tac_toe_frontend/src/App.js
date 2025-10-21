@@ -39,7 +39,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Doing manual changes....
         </a>
       </header>
     </div>
